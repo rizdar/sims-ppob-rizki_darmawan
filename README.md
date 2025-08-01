@@ -47,7 +47,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek:
 
    ```bash
    git clone https://github.com/rizdar/sims-ppob-rizki_darmawan.git
-   cd SIMS-PPOB-rizki-darmawan
+   cd sims-ppob-rizki_darmawan
    ```
 
 2. Install Dependencies:
